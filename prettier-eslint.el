@@ -1,3 +1,5 @@
+;;; prettier-eslint.el --- Autoformat javascript files with prettier-eslint
+
 ;; Copyright (C) 2017 Arseny Zarechnev
 ;; This package uses the MIT License.
 ;; See the LICENSE file.
