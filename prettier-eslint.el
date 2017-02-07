@@ -78,8 +78,7 @@ Use --bracket-spacing=false option for prettier")
                 (prettier-eslint/binary)
                 nil "*Prettier-ESLint Errors*" nil
                 buffer-file-name "--write" "--single-quote"
-                "--trailing-comma" "--bracket-spacing=false"
-                "--print-width=100")
+                "--trailing-comma" "--bracket-spacing=false")
                (revert-buffer t t t))))
 
 
